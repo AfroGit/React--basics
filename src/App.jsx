@@ -2,7 +2,7 @@ import './App.css'
 
 function MyButton(){
   return(
-    <button>I'M A Button</button>
+    <button className='bonyo'>PRESS ME!</button>
   );
 }
 
